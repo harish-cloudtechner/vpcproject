@@ -1,0 +1,11 @@
+variable "mansubnet"{}
+variable "subnet"{}
+variable "appsubnet"{}
+variable "dbsubnet"{}
+variable "dbsg"{}
+variable "appsg"{}
+variable "websg"{}
+variable "msg_id"{}
+variable "resource"{}
+variable "location"{}
+variable "project"{}
